@@ -1,6 +1,4 @@
 package megalonemo.crumblingblocks;
-
-//import megalonemo.greygoo.init.ModBlocks;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemStack;
