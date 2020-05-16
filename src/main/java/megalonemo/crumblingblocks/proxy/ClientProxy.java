@@ -1,7 +1,5 @@
 package megalonemo.crumblingblocks.proxy;
 
-//import megalonemo.greygoo.init.ModBlocks;
-//import megalonemo.greygoo.init.ModItems;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.model.ModelLoader;
